@@ -1,0 +1,26 @@
+# Compilação e Artefatos do Maven
+target/
+*.jar
+*.war
+*.ear
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+/out/
+
+# Eclipse / STS
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# VS Code & Outros
+.vscode/
+HELP.md
